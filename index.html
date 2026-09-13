@@ -138,8 +138,13 @@
         <section class="subscribe" id="subscribe">
             <h2>Get the weekly letter</h2>
             <p>One email a week. What moved in tech and markets, what it means, and what to watch. No spam, unsubscribe in one click.</p>
-            <p><a class="btn btn-ghost" href="/newsletter/">Read the archive</a></p>
+            <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/TechValueInvestor" method="post" target="_blank">
+                <label class="sr-only" for="bd-email">Email address</label>
+                <input id="bd-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+                <button class="btn btn-primary" type="submit">Subscribe</button>
+            </form>
             <p class="subscribe-note">Free. Read the archive first if you prefer.</p>
+            <p class="subscribe-powered"><a href="https://buttondown.com/refer/TechValueInvestor" target="_blank" rel="noopener">Powered by Buttondown.</a></p>
         </section>
         </div>
     </main>

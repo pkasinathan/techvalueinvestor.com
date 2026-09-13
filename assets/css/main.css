@@ -419,6 +419,17 @@ code, kbd, samp, pre { font-family: var(--font-mono); }
 }
 .subscribe-note { margin: 1rem 0 0; font-size: 0.8125rem; color: var(--text-dim); }
 
+/* Buttondown's attribution link. Required on the free plan, so it is styled to
+ * sit quietly rather than hidden, which would breach their terms. */
+.subscribe-powered { margin: 0.75rem 0 0; font-size: 0.75rem; color: var(--text-dim); }
+.subscribe-powered a { color: var(--text-dim); text-decoration: underline; }
+.subscribe-powered a:hover { color: var(--text-muted); }
+
+/* On the newsletter archive the block leads the page instead of closing it, so
+ * the header CTA lands on the form rather than below thirteen back issues.
+ * Same component, no top gap. */
+.subscribe-lead { margin-top: 0; margin-bottom: 3rem; }
+
 /* ===== FOOTER ===== */
 .site-footer {
   padding: 3rem 0 3.5rem;

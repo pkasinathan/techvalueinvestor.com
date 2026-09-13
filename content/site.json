@@ -24,8 +24,8 @@
     "body": "One email a week. What moved in tech and markets, what it means, and what to watch. No spam, unsubscribe in one click.",
     "button": "Subscribe",
     "note": "Free. Read the archive first if you prefer.",
-    "_buttondown_note": "Boss's Buttondown username, from buttondown.com Settings > Basics. Leave empty and the form is replaced with a link to the archive, which `tvi-tvisite doctor` reports as a warning rather than passing quietly.",
-    "buttondown_username": ""
+    "_buttondown_note": "The Buttondown username, from buttondown.com Settings > Basics. Case matters: it is the path segment in both the form action and the attribution link, so a wrong case is a form that posts nowhere. Leave empty and the form is replaced with a link to the archive, which `tvi-brandsite doctor` reports as a warning rather than passing quietly.",
+    "buttondown_username": "TechValueInvestor"
   },
 
   "links": [
