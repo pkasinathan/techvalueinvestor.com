@@ -465,8 +465,28 @@ code, kbd, samp, pre { font-family: var(--font-mono); }
   .post-header { padding: 2.5rem 0 1.75rem; }
 }
 
-/* Hide the nav CTA before the nav itself wraps into two crowded lines. */
-@media (max-width: 26rem) {
+/* Give the brand and navigation their own rows once a phone-sized header can
+ * no longer hold both. Keeping each link on one line prevents the weekly
+ * letter and subscribe labels from colliding at narrow widths. */
+@media (max-width: 36rem) {
+  .site-header .shell {
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    padding-top: 0.65rem;
+    padding-bottom: 0.65rem;
+  }
+  .site-nav {
+    flex: 0 0 100%;
+    width: 100%;
+    margin-left: 0;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+  .site-nav a { white-space: nowrap; }
+}
+
+/* Even the two-row header gets tight on legacy 320px screens. */
+@media (max-width: 22rem) {
   .site-nav .nav-cta { display: none; }
 }
 
