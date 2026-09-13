@@ -31,6 +31,7 @@
   "links": [
     { "label": "YouTube", "href": "https://www.youtube.com/@techvalueinvestor" },
     { "label": "X", "href": "https://x.com/TechValueInvest" },
+    { "label": "Buttondown", "href": "https://buttondown.com/TechValueInvestor/archive/" },
     { "label": "RSS", "href": "/rss.xml" }
   ],
 
