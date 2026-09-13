@@ -1,0 +1,21 @@
+{
+  // Cloudflare Workers static assets. The whole repo is the asset directory:
+  // there is no build step, so what is committed is byte-for-byte what is
+  // served. Matches how prabhukasinathan.com deploys, deliberately, so the two
+  // sites have one operational model between them.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "techvalueinvestor-com",
+  "compatibility_date": "2025-09-27",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": ".",
+    // Every page is a real index.html at a real directory path, so a miss is a
+    // genuine 404 and should say so rather than silently serving the home page.
+    "not_found_handling": "404-page"
+  }
+}

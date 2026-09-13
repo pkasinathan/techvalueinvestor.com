@@ -1,0 +1,42 @@
+{
+  "_comment": "The editorial surface of this site. tvi-tvisite reads this file on every publish and regenerates index.html, /disclaimer/, 404.html and both archive pages from it. Edit here, never in the generated HTML, which is overwritten. Prose only: no numbers, no claims about markets.",
+
+  "brand": "Tech Value Investor",
+  "tagline": "Daily market analysis and a weekly letter on technology, capital, and what it costs.",
+
+  "hero": {
+    "eyebrow": "Daily analysis",
+    "title": "Technology, capital, and what it actually costs.",
+    "sub": "Independent market analysis on the companies building the AI buildout, the infrastructure underneath it, and the money paying for it. Published every day, with a letter every Friday.",
+    "primary_cta": { "label": "Read the latest", "href": "/blog/" },
+    "secondary_cta": { "label": "The weekly letter", "href": "/newsletter/" }
+  },
+
+  "sections": {
+    "blog_heading": "Analysis",
+    "blog_description": "Daily notes on markets, technology, and the capital moving between them.",
+    "newsletter_heading": "The Weekly Letter",
+    "newsletter_description": "One issue a week: what moved, what it means, and what to watch next."
+  },
+
+  "subscribe": {
+    "heading": "Get the weekly letter",
+    "body": "One email a week. What moved in tech and markets, what it means, and what to watch. No spam, unsubscribe in one click.",
+    "button": "Subscribe",
+    "note": "Free. Read the archive first if you prefer.",
+    "_buttondown_note": "Boss's Buttondown username, from buttondown.com Settings > Basics. Leave empty and the form is replaced with a link to the archive, which `tvi-tvisite doctor` reports as a warning rather than passing quietly.",
+    "buttondown_username": ""
+  },
+
+  "links": [
+    { "label": "YouTube", "href": "https://www.youtube.com/@techvalueinvestor" },
+    { "label": "X", "href": "https://x.com/TechValueInvest" },
+    { "label": "RSS", "href": "/rss.xml" }
+  ],
+
+  "x_handle": "TechValueInvest",
+
+  "_disclaimer_note": "Markdown. Rendered into /disclaimer/ and summarised in every page footer. This is a public site publishing market analysis under a brand, so it says plainly that it is not advice.",
+  "disclaimer_short": "Tech Value Investor publishes independent research and commentary for informational purposes only. Nothing here is investment, financial, legal, or tax advice, and nothing here is a recommendation to buy or sell any security. Do your own research.",
+  "disclaimer": "## Not investment advice\n\nEverything published on techvalueinvestor.com is independent research and commentary, provided for informational and educational purposes only.\n\nNothing on this site is investment, financial, legal, or tax advice. Nothing on this site is an offer, solicitation, or recommendation to buy or sell any security, and no content here is tailored to your circumstances, objectives, or risk tolerance.\n\n## Do your own research\n\nMarkets carry risk, including the risk of total loss. Past performance does not predict future results. Before acting on anything you read here, verify it against primary sources and consider speaking with a licensed financial professional who knows your situation.\n\n## Positions\n\nThe author may hold positions in securities discussed on this site. No position is disclosed unless it is stated in the piece itself, and any position may change at any time without notice or an update to published work.\n\n## Accuracy and sources\n\nFigures are drawn from public sources and third-party data at the time of writing. They may be delayed, revised, or wrong. Content is published as of its date and is not updated as circumstances change.\n\n## No relationship\n\nReading this site, subscribing to the newsletter, or contacting the author creates no advisory, fiduciary, or professional relationship of any kind."
+}

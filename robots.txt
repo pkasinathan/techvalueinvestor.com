@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.techvalueinvestor.com/sitemap.xml
+
+# Every page is static HTML with its metadata in the markup, so there is
+# nothing here a crawler needs to execute and nothing worth rate limiting.
+Crawl-delay: 1
+
+# Source files are not content.
+Disallow: /assets/css/
+Disallow: /.git/
+
+# The social card and the brand mark are, so image search may have them.
+Allow: /assets/images/

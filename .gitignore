@@ -1,0 +1,32 @@
+# This repo deploys to a public site on every push to main. Anything private
+# that lands here is published, so the ignore list is a safety boundary and not
+# just tidiness.
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Keys and certs
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# wrangler
+.wrangler/
+.dev.vars*
+!.dev.vars.example
+
+# Node, if a toolchain is ever added
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

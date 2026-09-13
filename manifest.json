@@ -1,0 +1,21 @@
+{
+  "name": "Tech Value Investor",
+  "short_name": "TVI",
+  "description": "Daily market analysis and a weekly letter on technology, capital, and what it costs.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0D10",
+  "theme_color": "#0A0D10",
+  "orientation": "portrait-primary",
+  "lang": "en-US",
+  "categories": ["news", "finance", "business"],
+  "icons": [
+    {
+      "src": "/assets/images/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

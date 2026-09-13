@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Source of truth for the social card. og-image-1200.png is rendered from
+       this file; X, WhatsApp, LinkedIn and Slack will not render an SVG card. -->
+  <defs>
+    <linearGradient id="glow" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D68F" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#00D68F" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#0A0D10"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <!-- Hairline grid, the quiet chart background. -->
+  <g stroke="#232B34" stroke-width="1" opacity="0.5">
+    <path d="M0 157.5h1200M0 315h1200M0 472.5h1200"/>
+    <path d="M300 0v630M600 0v630M900 0v630"/>
+  </g>
+
+  <!-- Price series, bottom-left to top-right. -->
+  <path d="M80 520 L 230 470 L 350 495 L 480 400 L 610 425 L 740 300 L 870 330 L 1010 190 L 1120 150"
+        fill="none" stroke="#00D68F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1120" cy="150" r="11" fill="#00D68F"/>
+  <circle cx="1120" cy="150" r="24" fill="#00D68F" opacity="0.18"/>
+
+  <g font-family="Inter, Helvetica, Arial, sans-serif">
+    <text x="80" y="150" fill="#00D68F" font-size="24" font-weight="600"
+          letter-spacing="4.5">TECHVALUEINVESTOR.COM</text>
+    <text x="80" y="262" fill="#FFFFFF" font-size="86" font-weight="700" letter-spacing="-3">Tech Value Investor</text>
+    <text x="80" y="330" fill="#9AA7B4" font-size="32" font-weight="400">Daily market analysis and a weekly letter</text>
+    <text x="80" y="378" fill="#9AA7B4" font-size="32" font-weight="400">on technology, capital, and what it costs.</text>
+  </g>
+</svg>
