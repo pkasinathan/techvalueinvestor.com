@@ -558,6 +558,26 @@ code, kbd, samp, pre { font-family: var(--font-mono); }
 .take-box li:last-child { margin-bottom: 0; }
 .take-box li::marker { color: var(--accent); }
 
+.remember-box {
+  margin: 2.5rem 0 0;
+  padding: 1.25rem 1.5rem;
+  background: var(--surface-subtle, #12161a);
+  border-top: 2px solid var(--border-strong, #2d3843);
+  border-radius: var(--radius);
+}
+.remember-box-label {
+  margin: 0 0 0.6rem;
+  color: var(--text-muted, #7e8c9a);
+  font-family: var(--font-mono);
+  font-size: var(--step-meta);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.remember-box ul { margin: 0; padding-left: 1.1rem; }
+.remember-box li { margin-bottom: 0.5rem; color: var(--text); font-size: 0.9375rem; line-height: 1.55; }
+.remember-box li:last-child { margin-bottom: 0; }
+.remember-box li::marker { color: var(--text-muted, #7e8c9a); }
+
 .post-body { font-size: var(--step-body); }
 .post-body > *:first-child { margin-top: 0; }
 /* The old rule put a full-width top border above every h2, which on a phone
