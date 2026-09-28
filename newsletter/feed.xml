@@ -5,8 +5,40 @@
         <link>https://www.techvalueinvestor.com/newsletter/</link>
         <description>One issue a week: what moved, what it means, and what to watch next.</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 18 Sep 2026 12:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 12:00:00 +0000</lastBuildDate>
         <atom:link href="https://www.techvalueinvestor.com/newsletter/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>AI Revenue Is Growing, but the Cost of Building It Keeps Climbing (Week of 2026-09-19 to 2026-09-25)</title>
+            <link>https://www.techvalueinvestor.com/newsletter/2026-09-25-ai-revenue-is-growing-but-the-cost-of-building-it-keeps/</link>
+            <guid isPermaLink="true">https://www.techvalueinvestor.com/newsletter/2026-09-25-ai-revenue-is-growing-but-the-cost-of-building-it-keeps/</guid>
+            <description>The period made AI’s two sides harder to separate: new products are finding users, while the infrastructure plans behind them require enormous spending. Meta...</description>
+            <content:encoded><![CDATA[<h2>Editor&rsquo;s Note</h2>
+<p>The period made AI’s two sides harder to separate: new products are finding users, while the infrastructure plans behind them require enormous spending. Meta gave investors a visible consumer product to measure. OpenAI and Anthropic showed how much capacity and financing the next stage may require.</p>
+<h2>AI Has a Product to Show, and a Large Bill Behind It</h2>
+<p>Meta’s Muse personal agent made the AI spending debate more concrete. It can book appointments, fill out forms, and monitor home security feeds. Meta offers a free tier and monthly plans of <strong>$20 or $100</strong>, and has partnered with Shopify to enable checkout with Shop Pay inside Muse.</p>
+<p>Early usage drew attention. Muse reached <strong>2.8 million downloads in its first 12 days</strong>. One report said it had <strong>642,000 U.S. mobile daily active users on day 12</strong>, compared with <strong>231,000 for ChatGPT at the same point</strong>. Those numbers show early adoption, but they do not yet show how much revenue the product will generate.</p>
+<p>That is the unanswered part of Meta’s pitch. Alexandr Wang said Meta is exploring a cut of shopping transactions made through agents, but has settled on no plan. Meta has announced integrations with commerce and travel services, while its subscription prices offer another possible source of revenue. The product now gives investors something to watch, but the business model is still taking shape.</p>
+<p>The launch also changed how some investors viewed Meta’s infrastructure spending. Meta shares rose sharply, and reports attributed large increases in market value to the move, though the estimates differed. That reaction suggests investors are more willing to see heavy AI spending as an advantage when it comes with a product and early user activity. It does not settle whether those users will pay enough to support the costs.</p>
+<p>The spending plans elsewhere make that test more demanding:</p>
+<ul>
+<li><strong>OpenAI:</strong> projects <strong>$856 billion</strong> in compute and infrastructure spending through 2030, <strong>$278 billion in negative free cash flow</strong> from 2026 through 2030, and revenue of <strong>$350 billion in 2030</strong>. The supplied material says it is currently at <strong>$36 billion a year</strong>.</li>
+<li><strong>Anthropic:</strong> expects annual recurring revenue to reach <strong>$100 billion by the end of 2026</strong>. It also told investors it expects available compute capacity to reach about <strong>5 gigawatts by year-end</strong>, up from about <strong>1.5 gigawatts last year</strong>.</li>
+<li>Both companies are targeting about <strong>10 gigawatts by the end of 2027</strong>, according to the reported plans.</li>
+</ul>
+<p>The revenue targets are large, but so are the capacity needs. Anthropic has secured compute across several providers, and one report said it is discussing a <strong>$10 billion</strong> compute lease with Meta. Demand is showing up in hardware too: AMD reached a <strong>$1 trillion</strong> market value as investors focused on the computing needs of consumer agents.</p>
+<p>The period’s clearest surprise was how quickly a consumer launch could shift attention from spending to potential revenue. The harder question is whether the products can produce enough income to support the infrastructure being built for them.</p>
+<h2>Higher Yields and Oil Keep the Rate Question Open</h2>
+<p>Stocks received some relief when oil fell, then faced renewed pressure as yields and oil moved higher. Brent moved from around <strong>$100</strong> to above <strong>$103</strong> in one report and toward <strong>$107</strong> in another before reports of possible U.S.-Iran talks helped cap its rise. The supplied accounts differ on the 10-year Treasury yield too: one put it at <strong>5.116%</strong>, while another reported it near <strong>5.2%</strong>. A separate report put it just below <strong>4.86%</strong> after the Treasury announced a <strong>$6 billion</strong> debt buyback.</p>
+<p>The exact yield readings differ across the material, but the rate concern repeated. The Fed raised its policy rate by <strong>25 basis points</strong>, to <strong>3.75% to 4.00%</strong>, and officials described another increase this year as reasonable. Markets moved toward pricing an October hike. Strong activity readings added to that pressure: September services activity reached <strong>58.7</strong>, while initial jobless claims fell to <strong>197,000</strong>.</p>
+<p>Higher yields make borrowing more expensive and give bonds and cash more competition with stocks. Oil near $100 also leaves inflation pressure in the picture. That combination complicates the case for easier rates, even as some investors expect inflation to fall. Tom Lee argued that a new PCE methodology could lower the reported year-over-year figure by <strong>20 to 40 basis points</strong>. That is his outlook; Fed officials and market pricing in the digests still point to possible further tightening.</p>
+<p>The open question is whether lower energy prices and the expected change in inflation measurement will ease that pressure, or whether activity, oil, and consumer expectations will keep the Fed focused on inflation.</p>
+<h2>Counter-Thesis and Risk Watch</h2>
+<p>The financing risk behind AI spending was the clearest counterpoint. Shay Boloor argued that OpenAI’s projected spending and free cash flow burn leave the plan dependent on external financing remaining available and cheap. His concern is especially relevant alongside the rising borrowing costs reported across the period.</p>
+<p>On the wider economy, George Gammon argued that higher rates threaten borrowers refinancing debt, including multifamily real estate and private credit. He pointed to a <strong>10-year yield above 5%</strong> and a <strong>30-year mortgage rate above 7%</strong>. These are his risk claims, not settled outcomes.</p>
+<p>The energy warning came from Geopolitical Economy Report, which attributed high fuel prices to the U.S. war against Iran and said some California stations had displayed diesel at <strong>$9.99</strong>. The report argued that prolonged disruption could keep oil and inflation high. Diplomacy around reopening the Strait of Hormuz offered a possible route to lower pressure, but the reports said negotiators disagreed over which side would act first.</p>
+<p>On China, Geopolitical Economy Report argued that the U.S.-China summit did not resolve the economic conflict and that U.S. companies remain dependent on Chinese manufacturing and materials. Alex Karp separately argued that frontier AI liability could prevent OpenAI from going public. Both are attributed views; the period’s reported facts leave the financing, policy, and product questions open.</p>]]></content:encoded>
+            <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+        </item>
         <item>
             <title>AI Spending Kept Climbing as Money Got More Expensive (Week of 2026-09-12 to 2026-09-18)</title>
             <link>https://www.techvalueinvestor.com/newsletter/2026-09-18-ai-spending-kept-climbing-as-money-got-more-expensive/</link>
